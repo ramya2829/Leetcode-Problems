@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ramya2829/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ramya2829/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ramya2829/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
