@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0015-3sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0015-3sum) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramya2829/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
 | ------- |
