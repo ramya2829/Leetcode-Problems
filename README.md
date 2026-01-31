@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0015-3sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Hash Table
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
