@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ramya2829/Leetcode-Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0052-n-queens-ii) |
 ## Sliding Window
 |  |
 | ------- |
