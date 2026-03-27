@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ramya2829/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ramya2829/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ramya2829/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramya2829/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/ramya2829/Leetcode-Problems/tree/master/0043-multiply-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ramya2829/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ramya2829/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ramya2829/Leetcode-Problems/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
