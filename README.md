@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ramya2829/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramya2829/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ramya2829/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ramya2829/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ramya2829/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
