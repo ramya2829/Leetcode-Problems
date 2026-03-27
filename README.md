@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ramya2829/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ramya2829/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ramya2829/Leetcode-Problems/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
 | ------- |
