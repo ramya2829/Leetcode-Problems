@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ramya2829/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ramya2829/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ramya2829/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ramya2829/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
