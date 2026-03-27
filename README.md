@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ramya2829/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ramya2829/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ramya2829/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ramya2829/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ramya2829/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ramya2829/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
