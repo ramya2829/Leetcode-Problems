@@ -216,4 +216,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/ramya2829/Leetcode-Problems/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ramya2829/Leetcode-Problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ramya2829/Leetcode-Problems/tree/master/0619-biggest-single-number) |
+| [1068-product-sales-analysis-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
