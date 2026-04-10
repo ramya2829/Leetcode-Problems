@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramya2829/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/ramya2829/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ramya2829/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ramya2829/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramya2829/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ramya2829/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0151-reverse-words-in-a-string](https://github.com/ramya2829/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
