@@ -207,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ramya2829/Leetcode-Problems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ramya2829/Leetcode-Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ramya2829/Leetcode-Problems/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/ramya2829/Leetcode-Problems/tree/master/0262-trips-and-users) |
 | [0595-big-countries](https://github.com/ramya2829/Leetcode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
