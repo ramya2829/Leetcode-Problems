@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramya2829/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ramya2829/Leetcode-Problems/tree/master/0055-jump-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ramya2829/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
