@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ramya2829/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/ramya2829/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramya2829/Leetcode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramya2829/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ramya2829/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Backtracking
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramya2829/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Greedy
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramya2829/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ramya2829/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramya2829/Leetcode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Database
 |  |
