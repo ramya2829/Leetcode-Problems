@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/ramya2829/Leetcode-Problems/tree/master/1046-last-stone-weight) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ramya2829/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Backtracking
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ramya2829/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Greedy
