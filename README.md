@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/ramya2829/Leetcode-Problems/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/1148-article-views-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
