@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ramya2829/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ramya2829/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ramya2829/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ramya2829/Leetcode-Problems/tree/master/1046-last-stone-weight) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ramya2829/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/ramya2829/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ramya2829/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
 |  |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
