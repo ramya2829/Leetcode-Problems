@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/ramya2829/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
@@ -258,13 +259,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ramya2829/Leetcode-Problems/tree/master/0901-online-stock-span) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/ramya2829/Leetcode-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
