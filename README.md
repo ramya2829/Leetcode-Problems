@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ramya2829/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/ramya2829/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramya2829/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Linked List
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ramya2829/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/ramya2829/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/ramya2829/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ramya2829/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramya2829/Leetcode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ramya2829/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ramya2829/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ramya2829/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/ramya2829/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1200-minimum-absolute-difference](https://github.com/ramya2829/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
