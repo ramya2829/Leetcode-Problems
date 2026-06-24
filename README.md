@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ramya2829/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramya2829/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramya2829/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Matrix
