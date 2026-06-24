@@ -2,17 +2,48 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        Map<String, List<String>> map = new HashMap<>();
+        List<List<String>> result = new ArrayList<>();
 
         for (String s : strs) {
-            char[] chars = s.toCharArray();
-            Arrays.sort(chars);
-            String key = new String(chars);
-
-            map.putIfAbsent(key, new ArrayList<>());
-            map.get(key).add(s);
+            boolean placed = false;
+            
+            // Check if 's' belongs to any existing anagram group
+            for (List<String> group : result) {
+                // We only need to check against the first word of the group
+                if (isAnagram(s, group.get(0))) {
+                    group.add(s);
+                    placed = true;
+                    break;
+                }
+            }
+            
+            // If it doesn't match any existing group, create a new one
+            if (!placed) {
+                List<String> newGroup = new ArrayList<>();
+                newGroup.add(s);
+                result.add(newGroup);
+            }
         }
 
-        return new ArrayList<>(map.values());
+        return result;
+    }
+
+    // Helper method to check if two strings are anagrams without sorting
+    private boolean isAnagram(String s1, String s2) {
+        if (s1.length() != s2.length()) {
+            return false;
+        }
+        
+        int[] count = new int[26];
+        for (int i = 0; i < s1.length(); i++) {
+            count[s1.charAt(i) - 'a']++;
+            count[s2.charAt(i) - 'a']--;
+        }
+        
+        for (int c : count) {
+            if (c != 0) return false;
+        }
+        
+        return true;
     }
 }
