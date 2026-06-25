@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ramya2829/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ramya2829/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ramya2829/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/ramya2829/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0973-k-closest-points-to-origin](https://github.com/ramya2829/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ramya2829/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ramya2829/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ramya2829/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ramya2829/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
