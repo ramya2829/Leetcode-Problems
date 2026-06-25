@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ramya2829/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ramya2829/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0402-remove-k-digits) |
+| [1143-longest-common-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/ramya2829/Leetcode-Problems/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
