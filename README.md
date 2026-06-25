@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/ramya2829/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/ramya2829/Leetcode-Problems/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ramya2829/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ramya2829/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ramya2829/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/ramya2829/Leetcode-Problems/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ramya2829/Leetcode-Problems/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ramya2829/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Binary Search
