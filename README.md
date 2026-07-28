@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/ramya2829/Leetcode-Problems/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/ramya2829/Leetcode-Problems/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ramya2829/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## Design
 |  |
 | ------- |
