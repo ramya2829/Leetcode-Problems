@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ramya2829/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ramya2829/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0973-k-closest-points-to-origin](https://github.com/ramya2829/Leetcode-Problems/tree/master/0973-k-closest-points-to-origin) |
+| [1137-n-th-tribonacci-number](https://github.com/ramya2829/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramya2829/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/ramya2829/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/ramya2829/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/ramya2829/Leetcode-Problems/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ramya2829/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/ramya2829/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
